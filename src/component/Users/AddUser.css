@@ -1,0 +1,24 @@
+.container {
+  background: #1f1f1f;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  padding: 20px;
+  background: coral;
+  width: 50vw;
+  height: 50vh;
+  border-radius: 5px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.elements {
+  width: 60%;
+}
